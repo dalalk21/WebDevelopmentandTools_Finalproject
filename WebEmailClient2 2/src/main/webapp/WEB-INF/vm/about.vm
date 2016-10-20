@@ -1,0 +1,28 @@
+
+<html>
+<head>
+<title>About Us</title>
+<style>
+            body {width:60%;
+            margin:auto;
+            }
+	</style>
+</head>
+<body>
+<h1>Hello ${sessionScope.user.firstName}</h1>
+
+<p>Much more About us! </p>
+<br>
+<p>
+Privacy, security and online safety
+
+Report a safety or abuse issue affecting a Google product
+
+If you know of a safety or abuse problem with any of Google's services, we'd like to hear about it right away.
+
+Please use the options below to find and report the issue. </p>
+
+This is velocity page!!
+</body>
+</html>
+
